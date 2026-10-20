@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+
+# Cabinet Grotesk may not be published (ITF Free Font License). Never commit the font files.
+fonts/
+CabinetGrotesk*/
+*.zip
+*.otf
+*.ttf
+*.ttc
+*.otc
+*.eot
+*.woff
+*.woff2
